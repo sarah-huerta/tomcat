@@ -1,0 +1,57 @@
+24-Jan-2022 16:06:38.953 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.14
+24-Jan-2022 16:06:38.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 2 2021 22:01:36 UTC
+24-Jan-2022 16:06:38.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.14.0
+24-Jan-2022 16:06:38.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+24-Jan-2022 16:06:38.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            12.1
+24-Jan-2022 16:06:38.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+24-Jan-2022 16:06:38.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home
+24-Jan-2022 16:06:38.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+24-Jan-2022 16:06:38.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Jan-2022 16:06:38.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/var/tomcat
+24-Jan-2022 16:06:38.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/var/tomcat
+24-Jan-2022 16:06:39.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Jan-2022 16:06:39.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Jan-2022 16:06:39.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Jan-2022 16:06:39.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Jan-2022 16:06:39.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Jan-2022 16:06:39.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/usr/local/var/tomcat/conf/logging.properties
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/usr/local/var/tomcat
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/usr/local/var/tomcat
+24-Jan-2022 16:06:39.020 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/usr/local/var/tomcat/temp
+24-Jan-2022 16:06:39.029 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/sarahhuerta/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Jan-2022 16:06:39.375 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9999"]
+24-Jan-2022 16:06:39.434 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [724] milliseconds
+24-Jan-2022 16:06:39.478 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Jan-2022 16:06:39.478 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.14]
+24-Jan-2022 16:06:39.488 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/docs]
+24-Jan-2022 16:06:40.187 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:40.248 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/docs] has finished in [759] ms
+24-Jan-2022 16:06:40.248 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/manager]
+24-Jan-2022 16:06:40.685 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:40.692 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/manager] has finished in [443] ms
+24-Jan-2022 16:06:40.692 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/lis4368]
+24-Jan-2022 16:06:41.624 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:41.642 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/lis4368] has finished in [950] ms
+24-Jan-2022 16:06:41.642 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/examples]
+24-Jan-2022 16:06:42.225 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:42.243 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/examples] has finished in [601] ms
+24-Jan-2022 16:06:42.243 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/ROOT]
+24-Jan-2022 16:06:42.631 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:42.633 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/ROOT] has finished in [389] ms
+24-Jan-2022 16:06:42.633 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/hello]
+24-Jan-2022 16:06:43.406 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:43.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/hello] has finished in [784] ms
+24-Jan-2022 16:06:43.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/var/tomcat/webapps/host-manager]
+24-Jan-2022 16:06:43.803 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jan-2022 16:06:43.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/var/tomcat/webapps/host-manager] has finished in [388] ms
+24-Jan-2022 16:06:43.809 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9999"]
+24-Jan-2022 16:06:43.823 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4388] milliseconds
+24-Jan-2022 16:09:32.220 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-9999"]
+24-Jan-2022 16:09:32.226 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-Jan-2022 16:09:32.265 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-9999"]
+24-Jan-2022 16:09:32.277 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-9999"]
